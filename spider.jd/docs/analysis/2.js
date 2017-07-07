@@ -1,0 +1,33 @@
+call95638({
+    "1": {},
+    "94": [{
+        "width": 1210,
+        "color": "",
+        "cai_type": "0",
+        "exposal_url": "\/\/im-x.jd.com\/dsp\/np?log=XI2oavXQ\/zKpqq8\/tztijpjnHPHxp07\/hD9Y7JIlbDS\/EmJrs3KPTkemVo88QrjVNWl6PVM4Fb6tcdEOK+7Zt+OZoMJRbZdEeI4AbVHV7AWGkJJwYv5YgZkPrD2QYZliTFwhVF6lgAGFn9WYmxY4q9RSireeY8sz0XtsV4uLHaukxg7S9c7pdLQIU+vuCiAdva0\/2hZFxObEnqaN5vna+Y3KPTzQFx1XLaznPka3Rztv2MVPFKpSAlnmmNx0Mt67RepwN1Tsdx4oOAVflfsnEQbhNBp5Q238s9vhetzmozG676BmDMIfSyRZqM7cVmis3\/rUujEyxsmfRIKcTU+yshAxT\/ofO88p2PjJI0atvT+45Ba6qAvMFEndnn\/2AMKQhBAgO9P6Q7dLWwV4Iar61KvmIq70201g0VdR7yinMcj30QrRwxouUlg8QDo8gYDwLTbEsK4bOtPkKMR1cqO33\/gQf3FQMi62vUg8nFXRn19KAiRgH420zSLhFVI\/dgOZ8dB7+tPGFiHWkD3NKkdWaQ==&v=404",
+        "monitor_url": "98d16bdf93a950e8^v2.8^SWC^94^^1262046^^8895115^http:\/\/huaweimossel.jd.com\/^c7acfa9a-921a-4c01-a121-23517bb38057^672^^191657^",
+        "sid": "c7acfa9a-921a-4c01-a121-23517bb38057",
+        "long_image_url": "",
+        "list_ad_pos": 1,
+        "forcpdimpress": "XI2oavXQ\/zKpqq8\/tztijpjnHPHxp07\/hD9Y7JIlbDS\/EmJrs3KPTkemVo88QrjVNWl6PVM4Fb6tcdEOK+7Zt+OZoMJRbZdEeI4AbVHV7AWGkJJwYv5YgZkPrD2QYZliTFwhVF6lgAGFn9WYmxY4q9RSireeY8sz0XtsV4uLHaukxg7S9c7pdLQIU+vuCiAdva0\/2hZFxObEnqaN5vna+Y3KPTzQFx1XLaznPka3Rztv2MVPFKpSAlnmmNx0Mt67RepwN1Tsdx4oOAVflfsnEQbhNBp5Q238s9vhetzmozG676BmDMIfSyRZqM7cVmis3\/rUujEyxsmfRIKcTU+yshAxT\/ofO88p2PjJI0atvT+45Ba6qAvMFEndnn\/2AMKQhBAgO9P6Q7dLWwV4Iar61KvmIq70201g0VdR7yinMcj30QrRwxouUlg8QDo8gYDwLTbEsK4bOtPkKMR1cqO33\/gQf3FQMi62vUg8nFXRn19KAiRgH420zSLhFVI\/dgOZ8dB7+tPGFiHWkD3NKkdWaQ==",
+        "spu_id": "0",
+        "flow_order": "3",
+        "ad_type": "1",
+        "image_url": "jfs\/t2734\/114\/279427251\/49890\/ea05fa16\/570bd421Nee4a6399.jpg",
+        "comment_num": "51",
+        "vender_id": "191657",
+        "ad_send_type": "0",
+        "ad_title": "1210-115.jpg",
+        "click_url": "http:\/\/ccc.x.jd.com\/dsp\/nc?ext=Y2xpY2sueC5qZC5jb20vSmRDbGljay8_eHVpZD01MjAwNyZ4c2l0ZWlkPTg4OTUxMTVfOTQmdG89aHR0cDovL2h1YXdlaW1vc3NlbC5qZC5jb20v&log=XI2oavXQ_zKpqq8_tztijpjnHPHxp07_hD9Y7JIlbDS_EmJrs3KPTkemVo88QrjVNWl6PVM4Fb6tcdEOK-7Zt-OZoMJRbZdEeI4AbVHV7AWGkJJwYv5YgZkPrD2QYZliTFwhVF6lgAGFn9WYmxY4q9RSireeY8sz0XtsV4uLHaukxg7S9c7pdLQIU-vuCiAdY_rM2DU33yUSmAcXltwGv9UqYgknb2xn9a8Dt4ZV8-BFwD_YS8r_09L51WRyqZK3TfTpAp9qRzCuQ3hp5xIECrrTPb96pdrLnHDJzNnCMIriKi-8nQpyriFxK9yeJzARD_5f-5a2pjha9j_h7us7yBaJwz8L5DIeZ9bOFf7D92WbYpzOgltdzhg1YfZa66I_uzWe1y7KXGHVJtY9bLdygTrdqAf7rJTf9YQuyPpLH-M&v=404",
+        "material_id": "8895115",
+        "icon_url": "",
+        "sku_cid3": "9438",
+        "shop_id": "184482",
+        "good_comments": "0",
+        "ad_billtype": "1",
+        "ad_spread_type": 1,
+        "sku_id": "10119745985",
+        "height": 115,
+        "worldwide": "1"
+    }]
+})

@@ -1,0 +1,2 @@
+# spider.chinabidding.com
+spider
